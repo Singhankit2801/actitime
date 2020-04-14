@@ -1,0 +1,4 @@
+package DemoJava;
+class testStatic
+{ 
+}
